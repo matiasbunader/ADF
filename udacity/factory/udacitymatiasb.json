@@ -1,0 +1,9 @@
+{
+	"name": "udacitymatiasb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ebf88450-5c27-49db-867d-9945d0cc0e3d",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
